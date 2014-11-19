@@ -498,11 +498,18 @@ h1 {
 	font-family: 'Conv_FordAntennaWGL-Black';
 }
 
+.right_page ul.ui-listview {
+		height: 534px;
+		overflow: auto;
+}
+
 .right_page ul.ui-listview li {
 	background: rgba(0, 0, 0, 0.3);
 	padding: 14px 14px 15px;
 	margin-top: 5px;
 }
+
+
 
 .right_page ul.ui-listview li:first-child {
 	margin: 0;
